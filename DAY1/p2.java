@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class P2 {
     public static void main(String[] args) {
         // --- 1. Operators ---
-        int a = 10;
+        int a = 15;
         int b = 3;
 
         // Arithmetic
